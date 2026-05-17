@@ -203,13 +203,13 @@ I regularly upload:
 # 🌟 Connect With Me
 
 ## GitHub
-https://github.com/your-username
+https://github.com/Ankurkumar2005
 
 ## LinkedIn
-https://linkedin.com/in/your-profile
+https://linkedin.com/in/ankur-kumar-198031287
 
 ## Kaggle
-https://kaggle.com/your-profile
+https://kaggle.com/ankur2005kumar
 
 ---
 
